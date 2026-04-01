@@ -13,11 +13,11 @@
 - Desarrolar el pensamiento crítico.
 - Incentivar al desarrollo tecnológico y científico en la comunidad eductaiva.
 
-##Funds / Fondos
+## Funds / Fondos
 - Fondos del comité mixto regional ESO-Gobierno de Chile.
 - Los fondos serán usados para contratación de docentes, compra de kits de asruino y salidas pedagógicas.
 
-##At The time / Actualmente
+## At The time / Actualmente
 - Actualmente trabajo junto con mi colegio para implementar esta academia, inscripción de estudiantes, compra de materiales, planificación, busqueda de docentes, etc.
 
 ## Links
