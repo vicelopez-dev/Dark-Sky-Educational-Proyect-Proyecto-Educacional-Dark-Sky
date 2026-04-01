@@ -4,8 +4,8 @@
 - Este proyecto consiste en implementar una academia de astronomía y Robótica en mi colegio mediante los fondos del "comité mixto regional ESO-Gobierno de Chile" con el objetivo de desarrollar el pensamineto crítico-científico, el instinto científico y el buen uso de la tecnología.
 
 ## Images / Imágenes
-![doc](images/doc.jpg)
-![winner](images/winner.jpg)
+![doc](images/doc.png)
+![winner](images/winner.png)
 
 
 ## Objectives / Objetivos
